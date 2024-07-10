@@ -40,8 +40,12 @@
 
 ## 📊 Github
 
-<img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=askarax200&show_icons=true&count_private=true&theme=react&border_color=8D17DC&bg_color=0c0014&title_color=8D17DC&icon_color=8D17DC" height="192px" width="49.5%"/>
-<img alt="Jiří Žák's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=askarax200&langs_count=8&layout=compact&theme=react&border_color=8D17DC&bg_color=0c0014&title_color=8D17DC&icon_color=8D17DC" height="192px" width="49.5%"/>
+<a href="https://github.com/askarax200">
+    <img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=askarax200&show_icons=true&count_private=true&theme=react&border_color=8D17DC&bg_color=0c0014&title_color=8D17DC&icon_color=8D17DC" height="192px" width="49.5%"/>
+</a>
+<a href="https://github.com/askarax200">
+    <img alt="Jiří Žák's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=askarax200&langs_count=8&layout=compact&theme=react&border_color=8D17DC&bg_color=0c0014&title_color=8D17DC&icon_color=8D17DC" height="192px" width="49.5%"/>
+</a>
 
 <hr
 <br>
