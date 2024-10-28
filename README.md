@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-    👨🏼‍💻 I am junior website developer from Czechia.<br>
+    👨🏼‍💻 I am junior developer from Czechia.<br>
     🔗 My portfolio website: <a href="https://www.askarax200.eu" target="_blank">www.askarax200.eu</a>.
 </div>
 
