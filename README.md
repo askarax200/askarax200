@@ -1,10 +1,10 @@
 <h1 align="center">
-    Hi 👋, I am <a href="https://www.askarax200.eu" target="_blank">askarax200</a>!
+    Hi 👋, I am <a href="https://www.jirizak.eu" target="_blank">askarax200</a>!
 </h1>
 
 <div>
     👨🏼‍💻 I am junior developer from Czechia.<br>
-    🔗 My portfolio website: <a href="https://www.askarax200.eu" target="_blank">www.askarax200.eu</a>.
+    🔗 My portfolio website: <a href="https://www.jirizak.eu" target="_blank">www.jirizak.eu</a>.
 </div>
 
 ## ⚙ Technologies
